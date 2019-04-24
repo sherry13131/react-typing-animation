@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 
 var _templateObject = _taggedTemplateLiteral(['\n  from, to {\n    opacity: 1;\n  }\n  50% {\n    opacity: 0;\n  }\n'], ['\n  from, to {\n    opacity: 1;\n  }\n  50% {\n    opacity: 0;\n  }\n']),
-    _templateObject2 = _taggedTemplateLiteral(['\n  font-weight: 100;\n  color: black;\n  font-size: 1em;\n  padding-left: 2px;\n  animation: ', ' 1s step-end infinite;\n'], ['\n  font-weight: 100;\n  color: black;\n  font-size: 1em;\n  padding-left: 2px;\n  animation: ', ' 1s step-end infinite;\n']);
+    _templateObject2 = _taggedTemplateLiteral(['\n  font-weight: 100;\n  color: white;\n  font-size: 1em;\n  padding-left: 2px;\n  animation: ', ' 1s step-end infinite;\n'], ['\n  font-weight: 100;\n  color: white;\n  font-size: 1em;\n  padding-left: 2px;\n  animation: ', ' 1s step-end infinite;\n']);
 
 var _react = require('react');
 
